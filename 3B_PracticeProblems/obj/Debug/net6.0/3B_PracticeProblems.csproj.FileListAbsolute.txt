@@ -1,0 +1,15 @@
+C:\Users\haree\source\repos\3B_PracticeProblems\3B_PracticeProblems\bin\Debug\net6.0\3B_PracticeProblems.exe
+C:\Users\haree\source\repos\3B_PracticeProblems\3B_PracticeProblems\bin\Debug\net6.0\3B_PracticeProblems.deps.json
+C:\Users\haree\source\repos\3B_PracticeProblems\3B_PracticeProblems\bin\Debug\net6.0\3B_PracticeProblems.runtimeconfig.json
+C:\Users\haree\source\repos\3B_PracticeProblems\3B_PracticeProblems\bin\Debug\net6.0\3B_PracticeProblems.dll
+C:\Users\haree\source\repos\3B_PracticeProblems\3B_PracticeProblems\bin\Debug\net6.0\3B_PracticeProblems.pdb
+C:\Users\haree\source\repos\3B_PracticeProblems\3B_PracticeProblems\obj\Debug\net6.0\3B_PracticeProblems.csproj.AssemblyReference.cache
+C:\Users\haree\source\repos\3B_PracticeProblems\3B_PracticeProblems\obj\Debug\net6.0\3B_PracticeProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haree\source\repos\3B_PracticeProblems\3B_PracticeProblems\obj\Debug\net6.0\3B_PracticeProblems.AssemblyInfoInputs.cache
+C:\Users\haree\source\repos\3B_PracticeProblems\3B_PracticeProblems\obj\Debug\net6.0\3B_PracticeProblems.AssemblyInfo.cs
+C:\Users\haree\source\repos\3B_PracticeProblems\3B_PracticeProblems\obj\Debug\net6.0\3B_PracticeProblems.csproj.CoreCompileInputs.cache
+C:\Users\haree\source\repos\3B_PracticeProblems\3B_PracticeProblems\obj\Debug\net6.0\3B_PracticeProblems.dll
+C:\Users\haree\source\repos\3B_PracticeProblems\3B_PracticeProblems\obj\Debug\net6.0\refint\3B_PracticeProblems.dll
+C:\Users\haree\source\repos\3B_PracticeProblems\3B_PracticeProblems\obj\Debug\net6.0\3B_PracticeProblems.pdb
+C:\Users\haree\source\repos\3B_PracticeProblems\3B_PracticeProblems\obj\Debug\net6.0\3B_PracticeProblems.genruntimeconfig.cache
+C:\Users\haree\source\repos\3B_PracticeProblems\3B_PracticeProblems\obj\Debug\net6.0\ref\3B_PracticeProblems.dll
